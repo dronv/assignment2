@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item android:id="@+id/menu_rate_app"
+            android:title="Rate App"
+            android:icon="@drawable/menu_icon"
+            app:showAsAction="collapseActionView" />
+        <item android:id="@+id/menu_add_recipe"
+            android:title="Add Recipe"
+            android:icon="@drawable/menu_icon"
+            app:showAsAction="collapseActionView" />
+</menu>
